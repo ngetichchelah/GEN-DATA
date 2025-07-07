@@ -119,9 +119,9 @@ USE Somalia;
 -- JOIN jurisdiction_hierachy r ON dist.top_jurisdiction = r.name AND r.jurisdiction = 'Region'
 -- GROUP BY d.name, r.name;
 
-SELECT * FROM district_summary;
+-- SELECT * FROM district_summary;
 
---  SELECT * FROM partner_summary;
+-- SELECT * FROM partner_summary;
 
 # partner_summary
 -- CREATE TABLE partner_summary AS
